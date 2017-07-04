@@ -47,7 +47,7 @@ hold on
 xlabel('time, A.U.')
 ylabel('angle, degrees')
 
-%%
+
 function [thetas,the_t,spread_matrix]=GetVelocityRadonFig_demo(data,windowsize);
 %calculates the angle of the streaks in a space-time 'data' within a time window set by windowsize
 %after an initial rough calulation of the angle, the angle is recalulated
