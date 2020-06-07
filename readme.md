@@ -8,7 +8,7 @@ calculate the angle of the streaks in a user-defined time window.  When the
 spatial dimension of the space-time plot is along the x axis, and the time
 dimension is along the y-axis,  the cotangent of the angle of the streaks is
 proportional to the velocity.  The error as a fraction of the velocity will be
-largest for near horizontal and vertical lines.  becasue of this, for anlges of
+largest for near horizontal and vertical lines.  For angles of
 less than 10 degrees from horizontal, a cross-correlation method is more
 appropriate.  
 
