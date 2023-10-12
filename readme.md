@@ -13,7 +13,7 @@ less than 10 degrees from horizontal, a cross-correlation method is more
 appropriate.  
 
 
-The publication describing the method is described here:
+The publication describing the method is:
 
 -   Drew PJ, Blinder P, Cauwenberghs G, Shih AY, Kleinfeld D, Rapid
     determination of particle velocity from space-time line-scan data using the
